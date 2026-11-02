@@ -1,0 +1,31 @@
+[project]
+name = "preamble24-showcase"
+version = "1.0.0"
+description = "PREAMBLE24 공개 엔지니어링 쇼케이스 — 비공개 운용 저장소에서 발췌·재구성한 결정론 사례와 설계 문서"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "SeungYeon", email = "ksy02k@gmail.com" }]
+dependencies = []                      # 쇼케이스 코드는 표준 라이브러리만 쓴다
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["showcase/determinism"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+ignore = [
+    "RUF001", "RUF002", "RUF003",      # 한국어 주석·문자열의 전각 문자(·, →, ⓢ)는 의도한 것이다
+]
+
+[tool.ruff.lint.per-file-ignores]
+# 원본 발췌의 압축된 한 줄 문(`a; b`)과 시험 스크립트 꼴을 그대로 보존한다
+"showcase/determinism/determinism_showcase.py" = ["E702", "E731", "B023", "SIM105"]

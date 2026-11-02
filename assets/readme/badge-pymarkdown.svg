@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="24" viewBox="0 0 170 24" role="img" aria-label="markdown: PyMarkdown">
+  <rect x="0.5" y="0.5" width="169" height="23" rx="3" fill="#1E2329" stroke="#B58A05"/>
+  <rect x="76" y="0.5" width="93.5" height="23" rx="0" fill="#F0B90B"/>
+  <text x="38.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" fill="#EAECEF">markdown</text>
+  <text x="123.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#0B0E11">PyMarkdown</text>
+</svg>

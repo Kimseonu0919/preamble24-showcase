@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-label="PREAMBLE24">
+  <defs>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E2329"/><stop offset="1" stop-color="#0B0E11"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B58A05"/><stop offset="0.5" stop-color="#F0B90B"/><stop offset="1" stop-color="#B58A05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="400" fill="url(#stone)"/>
+  <rect x="80" y="36" width="1440" height="2" fill="url(#gold)"/>
+  <rect x="80" y="44" width="1440" height="1" fill="#B58A05" opacity="0.7"/>
+  <polygon points="800.0,79.1 814.0,93.1 800.0,107.1 786.0,93.1" fill="#F0B90B" opacity="1.0"/><polygon points="818.9,98 832.9,112 818.9,126 804.9,112" fill="#F0B90B" opacity="1.0"/><polygon points="800.0,116.9 814.0,130.9 800.0,144.9 786.0,130.9" fill="#F0B90B" opacity="1.0"/><polygon points="781.1,98 795.1,112 781.1,126 767.1,112" fill="#F0B90B" opacity="1.0"/><polygon points="800.0,104.3 807.7,112 800.0,119.7 792.3,112" fill="#F0B90B" opacity="0.55"/>
+  <text x="800.0" y="244" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif KR', 'Malgun Gothic', serif" font-size="118" font-weight="700" letter-spacing="22"
+        fill="#0B0E11" opacity="0.9">PREAMBLE24</text>
+  <text x="800.0" y="238" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif KR', 'Malgun Gothic', serif" font-size="118" font-weight="700" letter-spacing="22"
+        fill="url(#gold)">PREAMBLE24</text>
+  <text x="800.0" y="300" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', Arial, sans-serif" font-size="19" letter-spacing="7" fill="#EAECEF">
+    SYSTEMATIC TRADING ON BINANCE · NAUTILUSTRADER 2.0
+  </text>
+  <rect x="80" y="354" width="1440" height="1" fill="#B58A05" opacity="0.7"/>
+  <rect x="80" y="362" width="1440" height="2" fill="url(#gold)"/>
+</svg>

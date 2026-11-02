@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="24" viewBox="0 0 100 24" role="img" aria-label="lint: ruff">
+  <rect x="0.5" y="0.5" width="99" height="23" rx="3" fill="#1E2329" stroke="#B58A05"/>
+  <rect x="48" y="0.5" width="51.5" height="23" rx="0" fill="#F0B90B"/>
+  <text x="24.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" fill="#EAECEF">lint</text>
+  <text x="74.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#0B0E11">ruff</text>
+</svg>

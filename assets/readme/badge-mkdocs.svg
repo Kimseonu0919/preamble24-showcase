@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="24" viewBox="0 0 205 24" role="img" aria-label="docs site: MkDocs · local">
+  <rect x="0.5" y="0.5" width="204" height="23" rx="3" fill="#1E2329" stroke="#B58A05"/>
+  <rect x="83" y="0.5" width="121.5" height="23" rx="0" fill="#F0B90B"/>
+  <text x="41.5" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" fill="#EAECEF">docs site</text>
+  <text x="144.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#0B0E11">MkDocs · local</text>
+</svg>

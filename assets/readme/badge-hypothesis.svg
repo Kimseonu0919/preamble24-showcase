@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="24" viewBox="0 0 212 24" role="img" aria-label="property tests: Hypothesis">
+  <rect x="0.5" y="0.5" width="211" height="23" rx="3" fill="#1E2329" stroke="#B58A05"/>
+  <rect x="118" y="0.5" width="93.5" height="23" rx="0" fill="#F0B90B"/>
+  <text x="59.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" fill="#EAECEF">property tests</text>
+  <text x="165.0" y="16" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#0B0E11">Hypothesis</text>
+</svg>
