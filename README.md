@@ -25,7 +25,7 @@
 
 ## 소개
 
-**PREAMBLE24** 는 바이낸스 USDⓈ-M 선물에서 여러 전략(모멘텀 · 평균회귀 · 트렌드 · 캘린더)을 함께 운용하는 체계적 매매 시스템입니다.
+**PREAMBLE24** 는 바이낸스 USDⓈ-M 선물에서 여러 전략을 함께 운용하는 체계적 매매 시스템입니다.
 [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) 위에서 Windows 서비스(NSSM)로 상시 가동하며(코드와 테스트 스위트는 Linux CI 에서도 돕니다),
 연구 · 검증 · 실운용을 하나의 저장소와 하나의 규약 아래 둡니다.
 
