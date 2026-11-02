@@ -27,9 +27,7 @@ jobs:
       - name: Lint (ruff)
         run: ruff check .
       - name: Self-check (standalone, stdlib only)
-        run: python -I showcase/determinism/determinism_showcase.py
-        env:
-          PYTHONIOENCODING: utf-8
+        run: python -X utf8 -I showcase/determinism/determinism_showcase.py   # Windows 콘솔(cp1252)에서도 한글 출력
       - name: Tests (pytest)
         run: python -m pytest
       - name: Badges are reproducible
