@@ -15,7 +15,7 @@
 
 ## What it is
 
-PREAMBLE24 runs several strategies (momentum, mean reversion, trend, calendar) together on Binance USDⓈ-M futures.
+PREAMBLE24 runs several strategies together on Binance USDⓈ-M futures.
 It is built on [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) 2.0, runs 24/7 as a Windows service (NSSM),
 and its code and test suite also run on Linux CI. Research, validation and live operation live under one repository and one set of rules.
 
